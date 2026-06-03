@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sakthivel+M+%F0%9F%91%8B;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;BCA+Gold+Medalist+%7C+MCA+%40+SASTRA+University;Building+AI+that+actually+matters+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+XGBoost+%7C+TensorFlow;BCA+Gold+Medalist+%7C+MCA+%40+SASTRA;Building+AI+that+matters+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -41,14 +41,14 @@ class SakthivelM:
             "MLOps", "LLM Fine-tuning"
         ]
 
-        self.fun_fact = "I trained a CNN to detect pneumonia faster than coffee brews ☕"
+        self.fun_fact = "I trained a CNN to detect pneumonia faster than coffee brews"
 
     def motto(self):
         return "Clean code. Real data. Meaningful impact."
 
 me = SakthivelM()
 print(me.motto())
-# → Clean code. Real data. Meaningful impact.
+# -> Clean code. Real data. Meaningful impact.
 ```
 
 <br clear="right"/>
@@ -71,21 +71,19 @@ print(me.motto())
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 **Databases & Tools**
 
@@ -98,12 +96,8 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/SakthivelMurugan121">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SakthivelMurugan121&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
-  <a href="https://github.com/SakthivelMurugan121">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthivelMurugan121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SakthivelMurugan121&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthivelMurugan121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" />
 </div>
 
 ---
@@ -111,7 +105,7 @@ print(me.motto())
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SakthivelMurugan121&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=SakthivelMurugan121&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -119,7 +113,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SakthivelMurugan121&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SakthivelMurugan121&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -127,7 +121,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakthivelMurugan121&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SakthivelMurugan121&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </div>
 
 ---
@@ -145,7 +139,6 @@ print(me.motto())
 - Designed **15+ wireframes** and interactive prototypes for web and mobile applications
 - Applied layout design, color theory, typography, and user flow optimization principles
 - Built responsive, accessible web pages with cross-browser compatibility
-- Prototypes delivered to client without revision cycles
 
 </details>
 
@@ -158,7 +151,7 @@ print(me.motto())
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - Built **8+ responsive web pages** using HTML5, CSS Flexbox/Grid, and JavaScript DOM manipulation
-- Applied semantic HTML, accessibility standards under senior developer mentorship
+- Applied semantic HTML and accessibility standards under senior developer mentorship
 - Delivered all modules on schedule with zero post-submission bug reports
 
 </details>
@@ -171,9 +164,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🛡️ XGBoost Intrusion Detection System](https://github.com/SakthivelMurugan121/IDS) | Python · TensorFlow · XGBoost · SHAP | 98.7% binary & 96.2% multiclass accuracy on NSL-KDD & UNSW-NB15; SHAP + Attention for explainability |
-| [🫁 Pneumonia Detection CNN](https://github.com/SakthivelMurugan121/Pneumonia-Detection-Using-Deep-CNN) | Python · TensorFlow · Keras · OpenCV | 96.4% accuracy · 0.97 AUC-ROC on 5,863 X-rays; 18% overfitting reduction via dropout regularization |
-| [👤 Age & Gender Detection](https://github.com/SakthivelMurugan121/Age-and-Gender-Detection-Using-OpenCV-and-Deep-Learning) | Python · OpenCV · Haar Cascades | 94.3% gender accuracy · ±4.2yr MAE · 28 FPS real-time on CPU |
+| [🛡️ XGBoost Intrusion Detection System](https://github.com/SakthivelMurugan121/IDS) | Python · TensorFlow · XGBoost · SHAP | 98.7% binary & 96.2% multiclass accuracy on NSL-KDD & UNSW-NB15 |
+| [🫁 Pneumonia Detection CNN](https://github.com/SakthivelMurugan121/Pneumonia-Detection-Using-Deep-CNN) | Python · TensorFlow · Keras · OpenCV | 96.4% accuracy · 0.97 AUC-ROC on 5,863 chest X-rays |
+| [👤 Age & Gender Detection](https://github.com/SakthivelMurugan121/Age-and-Gender-Detection-Using-OpenCV-and-Deep-Learning) | Python · OpenCV · Haar Cascades | 94.3% accuracy · 28 FPS real-time on CPU |
 
 </div>
 
@@ -197,6 +190,14 @@ print(me.motto())
 ---
 
 ## 🌱 Currently Learning
+
+```
+🔥 PyTorch         → Neural networks, custom training loops, model deployment
+☁️  AWS / GCP       → EC2, S3, SageMaker, cloud ML pipelines
+🐳 Docker          → Containerization, ML model packaging, docker-compose
+⚙️  MLOps           → Model versioning, monitoring, CI/CD for ML
+🤖 LLM Fine-tuning → LoRA, PEFT, instruction tuning, RAG pipelines
+```
 
 ---
 

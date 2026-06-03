@@ -95,12 +95,14 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SakthivelMurugan121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthivelMurugan121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</div>
+
+![](https://img.shields.io/badge/Public%20Repos-Building%20Soon-70a5fd?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Focus-Machine%20Learning-bf91f3?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+> 🚀 Actively uploading projects — stats will populate once repositories go live!
+
 
 ---
 
@@ -123,7 +125,11 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakthivelMurugan121&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
+![](https://img.shields.io/badge/🥇%20BCA%20Gold%20Medalist-9.01%20CGPA-FFD700?style=for-the-badge)
+![](https://img.shields.io/badge/🥈%20NPTEL%20Elite%20Silver-Top%205%25-C0C0C0?style=for-the-badge)
+![](https://img.shields.io/badge/🥈%20NPTEL%20Silver-Cloud%20Computing-C0C0C0?style=for-the-badge)
+
 </div>
 
 ---

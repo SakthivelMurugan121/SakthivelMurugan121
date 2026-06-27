@@ -27,7 +27,7 @@ class SakthivelM:
         self.name        = "Sakthivel M"
         self.location    = "Pondicherry, India"
         self.degree      = "MCA @ SASTRA Deemed University"
-        self.cgpa        = 7.8
+        self.cgpa        = 8.1
         self.gold_medal  = True  # BCA Topper | 9.01 CGPA
 
         self.stack = [

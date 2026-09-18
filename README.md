@@ -175,6 +175,7 @@ print(me.motto())
 | [🛡️ XGBoost Intrusion Detection System](https://github.com/SakthivelMurugan121/IDS) | Python · TensorFlow · XGBoost · SHAP | 98.7% binary & 96.2% multiclass accuracy on NSL-KDD & UNSW-NB15 |
 | [🫁 Pneumonia Detection CNN](https://github.com/SakthivelMurugan121/Pneumonia-Detection-Using-Deep-CNN) | Python · TensorFlow · Keras · OpenCV | 96.4% accuracy · 0.97 AUC-ROC on 5,863 chest X-rays |
 | [👤 Age & Gender Detection](https://github.com/SakthivelMurugan121/Age-and-Gender-Detection-Using-OpenCV-and-Deep-Learning) | Python · OpenCV · Haar Cascades | 94.3% accuracy · 28 FPS real-time on CPU |
+| [📊 Retail Sales ETL Pipeline](https://github.com/SakthivelMurugan121/Retail-Sales-ETL-Pipeline) | PySpark · Databricks · SQL · Delta Lake | Bronze-Silver-Gold Architecture · Data Quality Validation · Delta Lake Optimization · Business Analytics |
 
 </div>
 
